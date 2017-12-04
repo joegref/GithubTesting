@@ -5,7 +5,7 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountTriggerHandler</apexClass>
+        <apexClass>AccountTriggerHandler_1234</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
